@@ -1,0 +1,17 @@
+.drug-detail-container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    margin-top: 20px;
+  }
+  
+  h3 {
+    margin-top: 20px;
+  }
+  
+  .error {
+    color: red;
+  }
+  

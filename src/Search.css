@@ -1,0 +1,28 @@
+.search-container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  button {
+    padding: 10px;
+  }
+  
+  .results, .suggestions, .error {
+    margin-top: 20px;
+  }
+  
+  .results div, .suggestions div {
+    cursor: pointer;
+    margin: 5px 0;
+  }
+  
+  .error {
+    color: red;
+  }
+  
